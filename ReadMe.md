@@ -23,15 +23,15 @@ The best place to search for answers is our [User Documentation](https://docs.fl
 
 ## I want to report an issue
 
-If you've found an issue and want to report it, please check our [Issues](https://github.com/flipperdevices/flipperzero-firmware/issues) page. Make sure the description contains information about the firmware version you're using, your platform, and a clear explanation of the steps to reproduce the issue.
+If you've found an issue and want to report it, please check our [Issues](https://github.com/sram69/flipperzero-firmware/issues) page. Make sure the description contains information about the firmware version you're using, your platform, and a clear explanation of the steps to reproduce the issue.
 
 ## I want to contribute code
 
-Before opening a PR, please confirm that your changes must be contained in the firmware. Many ideas can easily be implemented as external applications and published in the [Flipper Application Catalog](https://github.com/flipperdevices/flipper-application-catalog). If you are unsure, reach out to us on the [Discord Server](https://flipp.dev/discord) or the [Issues](https://github.com/flipperdevices/flipperzero-firmware/issues) page, and we'll help you find the right place for your code.
+Before opening a PR, please confirm that your changes must be contained in the firmware. Many ideas can easily be implemented as external applications and published in the [Flipper Application Catalog](https://github.com/flipperdevices/flipper-application-catalog). If you are unsure, reach out to us on the [Discord Server](https://flipp.dev/discord) or the [Issues](https://github.com/sram69/flipperzero-firmware/issues) page, and we'll help you find the right place for your code.
 
 Also, please read our [Contribution Guide](/CONTRIBUTING.md) and our [Coding Style](/CODING_STYLE.md), and make sure your code is compatible with our [Project License](/LICENSE).
 
-Finally, open a [Pull Request](https://github.com/flipperdevices/flipperzero-firmware/pulls) and make sure that CI/CD statuses are all green.
+Finally, open a [Pull Request](https://github.com/sram69/flipperzero-firmware/pulls) and make sure that CI/CD statuses are all green.
 
 # Development
 
@@ -63,7 +63,7 @@ Flipper Build System will take care of all the other dependencies.
 Make sure you have enough space and clone the source code:
 
 ```shell
-git clone --recursive https://github.com/flipperdevices/flipperzero-firmware.git
+git clone --recursive https://github.com/sram69/flipperzero-firmware.git
 ```
 
 ## Building

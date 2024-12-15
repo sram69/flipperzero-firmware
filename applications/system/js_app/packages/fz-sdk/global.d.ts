@@ -11,7 +11,7 @@
  * 
  * This system has been designed in collaboration with our community in order to
  * make things better for everybody involved. You can find out more in this
- * discussion: https://github.com/flipperdevices/flipperzero-firmware/pull/3961
+ * discussion: https://github.com/sram69/flipperzero-firmware/pull/3961
  * 
  * ## Community agreement
  * Each interpreter implementation (aka "JS SDK", aka "JS API"), including

@@ -1,7 +1,7 @@
 /* myki.c - Parser for myki cards (Melbourne, Australia).
  *
  * Based on the code by Emily Trau (https://github.com/emilytrau)
- * Original pull request URL: https://github.com/flipperdevices/flipperzero-firmware/pull/2326
+ * Original pull request URL: https://github.com/sram69/flipperzero-firmware/pull/2326
  * Reference: https://github.com/metrodroid/metrodroid/wiki/Myki
  */
 #include "nfc_supported_card_plugin.h"

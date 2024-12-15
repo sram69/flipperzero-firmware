@@ -11,7 +11,7 @@
   "license": "GPL-3.0-only",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flipperdevices/flipperzero-firmware.git",
+    "url": "git+https://github.com/sram69/flipperzero-firmware.git",
     "directory": "applications/system/js_app/packages/fz-sdk"
   },
   "type": "module",

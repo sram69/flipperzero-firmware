@@ -39,7 +39,7 @@ def main():
     commit_hash = os.getenv("COMMIT_HASH")
     commit_sha = os.getenv("COMMIT_SHA")
     commit_link = (
-        "<https://github.com/flipperdevices/flipperzero-firmware/commit/"
+        "<https://github.com/sram69/flipperzero-firmware/commit/"
         + commit_hash
         + "|"
         + commit_sha

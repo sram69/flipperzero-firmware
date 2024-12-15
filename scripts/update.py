@@ -37,7 +37,7 @@ class Main(App):
     MIN_GAP_PAGES = 2
 
     # Update stage file larger than that is not loadable without fix
-    # https://github.com/flipperdevices/flipperzero-firmware/pull/3676
+    # https://github.com/sram69/flipperzero-firmware/pull/3676
     UPDATER_SIZE_THRESHOLD = 128 * 1024
 
     HEATSHRINK_WINDOW_SIZE = 13

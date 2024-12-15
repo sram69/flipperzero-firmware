@@ -1,7 +1,7 @@
 /*
  * Electra intercom rfid protocol (Romania)
  *
- * Based on EM4100 protocol implementation from https://github.com/flipperdevices/flipperzero-firmware/blob/dev/lib/lfrfid/protocols/protocol_em4100.c
+ * Based on EM4100 protocol implementation from https://github.com/sram69/flipperzero-firmware/blob/dev/lib/lfrfid/protocols/protocol_em4100.c
  *
  * Copyright 2024 Leptoptilos <leptoptilos@icloud.com>
  *
